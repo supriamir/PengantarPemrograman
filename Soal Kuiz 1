@@ -1,0 +1,34 @@
+Soal Kuiz
+Pengantar Pemrograman
+Prodi Ilmu Komputer Unhas
+Supri Bin Hj Amir,S.Si. M.Eng
+
+
+Soal (co1,co2,co3)
+Di sebuah kampus swasta A . Insentif dosen dibayarkan dengan syarat-syarat berikut
+1.  Jika beban kerja sks = 8 maka hanya mendapatkan insentif_dasar saja
+2.Jika beban kerja sks lebih dari 8 maka mendapatkan insentif_dasar dan insentif_lebih
+dimana insentif_dasar = 8 sks dan selebihnya menjadi insentif_lebih
+3.Jika beban kerja sks lebih sama dengan dari 1 tapi kurang dari 8 sks maka dosen tersebut wajib membayar denda 200 ribu dan tidak mendapatkan insentif_dasar
+ 
+Hitung Total Insentif dosen jika insentif_dasar dibayar 200 dolar per sks sedangkan insentif_lebih 100 dolar per sks
+
+Contoh Input 1
+Jumlah Sks dosen A = 15
+Outputnya 1
+Insentif_dasar =8 sks
+Insentif_lebih_lebih = 7 sks
+Total Insentif =$2300 
+               
+Contoh Input 2
+Jumlah SKS dosen A =2 Outputnya 2
+Insentif_dasar =0  
+Denda = 200
+Total Insentif = -$200
+
+Contoh Input 3
+Jumlah SKS dosen A =8
+Output 3
+Insentif_dasar =8
+Insentif_lebih = 0
+Total Insentif = $1600
